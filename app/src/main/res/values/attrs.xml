@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleView">
+        <attr name="backgroundCircleColor" format="color"/>
+        <attr name="foregorundCircleColor" format="color"/>
+        <attr name="backgroundStrokeWidth" format="dimension"/>
+        <attr name="foregroundStrokeWidth" format="dimension"/>
+    </declare-styleable>
+
+</resources>
